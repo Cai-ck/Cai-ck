@@ -22,12 +22,6 @@ Sou desenvolvedor em formação, focado em **Desenvolvimento de Sistemas** e ent
 
 ---
 
-## 📈 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
-
----
-
 ## 📫 Contato
 - LinkedIn: [https://www.linkedin.com/in/caique-lemos-b8726b303/]
 - Email: [caiquecunhaluiz0@gmail.com]

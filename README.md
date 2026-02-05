@@ -3,7 +3,6 @@
 Sou desenvolvedor em formação, focado em **Desenvolvimento de Sistemas** e entusiasta de tecnologia, sou estudante autônomo e resiliente, sempre buscando aprimorar os meus conhecimentos através de pesquisa constante e cursos técnicos.
 
 - 🎓 Cursando **Desenvolvimento de Sistemas** (SENAC-BA).
-- 🛡️ Especialização em **Cybersecurity** e **Networking** pela Cisco Networking Academy.
 - 🐧 Usuário e entusiasta de **Linux**.
 - 🧠 Atualmente aprofundando estudos em **Python, Estrutura de Dados e IA**.
 

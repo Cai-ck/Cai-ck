@@ -22,5 +22,5 @@ Sou desenvolvedor em formação, focado em **Desenvolvimento de Sistemas** e ent
 ---
 
 ## 📫 Contato
-- LinkedIn: [https://www.linkedin.com/in/caique-lemos-b8726b303/]
-- Email: [caiquecunhaluiz0@gmail.com]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-lemos-b8726b303/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](caiquecunhaluiz0@gmail.com)

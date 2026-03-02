@@ -16,7 +16,7 @@ Sou desenvolvedor em formação, focado em **Desenvolvimento de Sistemas** e ent
 
 ### 🎮 Lado Criativo (Gamedev & Hobby)
 *Desenvolvimento de jogos para exploração de lógica e criatividade.*
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ---

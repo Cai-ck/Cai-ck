@@ -5,7 +5,7 @@ Sou desenvolvedor em formação, focado em **Desenvolvimento de Sistemas** e ent
 
 - 🎓 Cursando **Desenvolvimento de Sistemas** (SENAC-BA).
 - 🐧 Usuário e entusiasta de **Linux**.
-- 🧠 Atualmente aprofundando estudos em **Python, Estrutura de Dados e IA**.
+- 🧠 Atualmente aprofundando estudos em **Python, Linguagens Front-End e IA**.
 
 ---
 <div align="center"> 
